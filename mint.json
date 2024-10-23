@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Documentation",
   "logo": {
-    "dark": "/logo/emergence-logo-white.png",
-    "light": "/logo/logo-emergence-black.svg"
+    "dark": "/logo/emergence_wordmark_white.svg",
+    "light": "/logo/emergence_wordmark_gray.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
